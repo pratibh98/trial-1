@@ -1,7 +1,7 @@
 let a = 2;
 
 if((a%2)==0){
-console.log("Even");
+console.log("Even");// print even
 }else{
-console.log("Odd");
+console.log("Odd");//print odd
 }
